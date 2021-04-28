@@ -6,7 +6,7 @@ Aca esta todo en lo que estoy trabajando:
 
 -Ultimas tecnologías de proyectos trabajados: JavaScript, CSS, React, Redux, Node, Express, PostgreSQL, Sequelize
 
-- Nuevas tecnologías que estoy implementando en mi proyecto actual: TypeScript, Supabase, Ant Design
+-Nuevas tecnologías que estoy implementando en mi proyecto actual: TypeScript, Supabase, Ant Design
 
 -Tecnologías por aprender: Python, React Native!
 
