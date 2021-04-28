@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hola! Yo soy Malena👋
 
-<!--
-**malenagoni/malenagoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Actualmente me encuentro finalizando mi cursada en el bootcamp Henry mientras trabajo en mi proyecto final de graduacion!
 
-Here are some ideas to get you started:
+Aca esta todo en lo que estoy trabajando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Ultimas tecnologías de proyectos trabajados: JavaScript, CSS, React, Redux, Node, Express, PostgreSQL, Sequelize
+
+- Nuevas tecnologías que estoy implementando en mi proyecto actual: TypeScript, Supabase, Ant Design
+
+-Tecnologías por aprender: Python, React Native!
+
+
+Mi Linkedin -> https://www.linkedin.com/in/malena-go%C3%B1i/
+
+📫 Contactame! 
+email: malennacg@gmail.com
+
