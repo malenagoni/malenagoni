@@ -44,6 +44,14 @@ Also, if we do it as a team, the fun is even greater😉
 
 React Native, Three.js, Python.
 
+<br/><br/>
+&nbsp;
+
+## A few projects 
+
+<a href="https://github.com/malenagoni/Weather-App"><img alt='weather-app' src='https://raw.githubusercontent.com/malenagoni/Weather-App/main/WeatherApp/pics/weatherapp.gif' height="100" width="150"/></a>
+
+
 ## 📫 Let's get in touch! 
 
 [![alt text][1.1]][1]
