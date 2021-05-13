@@ -5,6 +5,7 @@ Also, if we do it as a team, the fun is even greater😉
 
 ### - My Skills -
 
+<p align="">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/javascript.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.w3schools.com/html/default.asp"><img alt="HTML5" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/html.svg" align="left" height="60" width="48" ></a>
 <a href="https://css-tricks.com/"><img alt="CSS3" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/css.svg" align="left" height="60" width="48" ></a>
@@ -16,6 +17,7 @@ Also, if we do it as a team, the fun is even greater😉
 
 &nbsp;
 
+<p align="">
 <a href="https://nodejs.org/dist/latest-v14.x/docs/api/"><img alt="Node" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/nodejs.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.npmjs.com/"><img alt="NPM" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/npm.svg" align="left" height="60" width="60" ></a>
 <a href="https://expressjs.com/en/5x/api.html"><img alt="Express" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/expressjs2.svg"  align="left" height="60" width="60" ></a>
@@ -26,6 +28,8 @@ Also, if we do it as a team, the fun is even greater😉
 &nbsp;
 
 ### - In Progress -
+
+<p align="">
 <a href="https://supabase.io/"><img alt="Supabase" src="https://res.cloudinary.com/apideck/image/upload/w_200,f_auto/v1598443537/icons/supabase-io.jpg"  align="left" height="40" width="30" ></a>
 <a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" align="left" height="40" width="32" ></a>
 
