@@ -19,10 +19,6 @@ Also, if we do it as a team, the fun is even greater😉
 <br/><br/>
 &nbsp;
 
-
-<br/><br/>
-&nbsp;
-
 <p align="">
 <a href="https://nodejs.org/dist/latest-v14.x/docs/api/"><img alt="Node" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/nodejs.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.npmjs.com/"><img alt="NPM" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/npm.svg" align="left" height="60" width="60" ></a>
@@ -30,9 +26,6 @@ Also, if we do it as a team, the fun is even greater😉
 <a href="https://www.postgresql.org/docs/13/index.html"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/postgresql.svg" align="left" height="60" width="48" ></a>
 <a href="https://sequelize.org/master/"><img alt="Sequelize" src="https://github.com/triciopa/triciopa/blob/main/logos/databases/sequelize.svg" align="left" height="60" width="32" ></a>
 <a href="https://git-scm.com/docs/gittutorial" target="_blank"><img alt="Git" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/git.svg" align="left" height="60" width="60" ></a>
-
-<br/><br/>
-&nbsp;
 
 <br/><br/>
 &nbsp;
