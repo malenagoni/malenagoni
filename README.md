@@ -16,6 +16,11 @@ Also, if we do it as a team, the fun is even greater😉
 <a href="https://reactjs.org/docs/hello-world.html"><img alt="React" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/react.svg" align="left" height="60" width="48" ></a>
 <a href="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"><img alt="Redux" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/redux.svg" align="left" height="60" width="48" ></a>
 
+<br/><br/>
+&nbsp;
+
+
+<br/><br/>
 &nbsp;
 
 <p align="">
