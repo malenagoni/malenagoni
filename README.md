@@ -29,23 +29,23 @@ Also, if we do it as a team, the fun is even greater😉
 <br/><br/>
 &nbsp;
 
+<br/><br/>
+&nbsp;
+
 ## - In Progress -
 
 <p align="">
 <a href="https://supabase.io/"><img alt="Supabase" src="https://res.cloudinary.com/apideck/image/upload/w_200,f_auto/v1598443537/icons/supabase-io.jpg"  align="left" height="40" width="30" ></a>
 <a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" align="left" height="40" width="32" ></a>
 
+<br/><br/>
 &nbsp;
 
 ## - ✨ My Wishlist ✨ -
 
 React Native, Three.js, Python.
 
-&nbsp;
-
 ## 📫 Let's get in touch! 
-
-&nbsp;
 
 [![alt text][1.1]][1]
 &nbsp;&nbsp;&nbsp;&nbsp;
