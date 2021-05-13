@@ -3,8 +3,9 @@
 I'm a Full Stack Developer who enjoys the path of constant learning! Each project is a new challenge and I'm ready to work on it!
 Also, if we do it as a team, the fun is even greater😉
 
-## - My Skills -
+&nbsp;
 
+## My skills:
 <p align="">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/javascript.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.w3schools.com/html/default.asp"><img alt="HTML5" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/html.svg" align="left" height="60" width="48" ></a>
@@ -25,6 +26,7 @@ Also, if we do it as a team, the fun is even greater😉
 <a href="https://sequelize.org/master/"><img alt="Sequelize" src="https://github.com/triciopa/triciopa/blob/main/logos/databases/sequelize.svg" align="left" height="60" width="32" ></a>
 <a href="https://git-scm.com/docs/gittutorial" target="_blank"><img alt="Git" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/git.svg" align="left" height="60" width="60" ></a>
 
+<br/><br/>
 &nbsp;
 
 ## - In Progress -
