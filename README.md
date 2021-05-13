@@ -1,6 +1,7 @@
 ### Hey there! I'm Malena 👋
 
 I'm a Full Stack Developer who enjoys the path of constant learning! Each project is a new challenge and I'm ready to work on it!
+<br/>
 Also, if we do it as a team, the fun is even greater😉
 
 &nbsp;
