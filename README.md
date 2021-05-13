@@ -14,7 +14,7 @@ Also, if we do it as a team, the fun is even greater😉
 <a href="https://reactjs.org/docs/hello-world.html"><img alt="React" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/react.svg" align="left" height="60" width="48" ></a>
 <a href="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"><img alt="Redux" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/redux.svg" align="left" height="60" width="48" ></a>
 
-<br/><br/>
+&nbsp;
 
 <a href="https://nodejs.org/dist/latest-v14.x/docs/api/"><img alt="Node" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/nodejs.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.npmjs.com/"><img alt="NPM" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/npm.svg" align="left" height="60" width="60" ></a>
@@ -23,19 +23,19 @@ Also, if we do it as a team, the fun is even greater😉
 <a href="https://sequelize.org/master/"><img alt="Sequelize" src="https://github.com/triciopa/triciopa/blob/main/logos/databases/sequelize.svg" align="left" height="60" width="32" ></a>
 <a href="https://git-scm.com/docs/gittutorial" target="_blank"><img alt="Git" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/git.svg" align="left" height="60" width="60" ></a>
 
-<br/><br/>
+&nbsp;
 
 ### - In Progress -
 <a href="https://supabase.io/"><img alt="Supabase" src="https://res.cloudinary.com/apideck/image/upload/w_200,f_auto/v1598443537/icons/supabase-io.jpg"  align="left" height="40" width="30" ></a>
 <a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" align="left" height="40" width="32" ></a>
 
-<br/><br/>
+&nbsp;
 
 ### - ✨ My Wishlist ✨ -
 
 React Native, Three.js, Python.
 
-<br/><br/>
+&nbsp;
 
 ### 📫 Let's get in touch! 
 
