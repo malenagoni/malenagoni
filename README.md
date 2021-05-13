@@ -3,7 +3,7 @@
 I'm a Full Stack Developer who enjoys the path of constant learning! Each project is a new challenge and I'm ready to work on it!
 Also, if we do it as a team, the fun is even greater😉
 
-### - My Skills -
+## - My Skills -
 
 <p align="">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/javascript.svg" align="left" height="60" width="48" ></a>
@@ -27,7 +27,7 @@ Also, if we do it as a team, the fun is even greater😉
 
 &nbsp;
 
-### - In Progress -
+## - In Progress -
 
 <p align="">
 <a href="https://supabase.io/"><img alt="Supabase" src="https://res.cloudinary.com/apideck/image/upload/w_200,f_auto/v1598443537/icons/supabase-io.jpg"  align="left" height="40" width="30" ></a>
@@ -35,13 +35,13 @@ Also, if we do it as a team, the fun is even greater😉
 
 &nbsp;
 
-### - ✨ My Wishlist ✨ -
+## - ✨ My Wishlist ✨ -
 
 React Native, Three.js, Python.
 
 &nbsp;
 
-### 📫 Let's get in touch! 
+## 📫 Let's get in touch! 
 
 &nbsp;
 
