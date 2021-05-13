@@ -44,12 +44,11 @@ Also, if we do it as a team, the fun is even greater😉
 
 React Native, Three.js, Python.
 
-<br/><br/>
-&nbsp;
+<br/>
 
 ## A few projects 
 
-<a href="https://github.com/malenagoni/Weather-App"><img alt='weather-app' src='https://raw.githubusercontent.com/malenagoni/Weather-App/main/WeatherApp/pics/weatherapp.gif' height="100" width="150"/></a>
+<a href="https://github.com/malenagoni/Weather-App"><img alt='weather-app' src='https://raw.githubusercontent.com/malenagoni/Weather-App/main/WeatherApp/pics/weatherapp.gif' height="200" width="280"/></a>
 
 
 ## 📫 Let's get in touch! 
