@@ -48,7 +48,7 @@ React Native, Three.js, Python.
 
 ## A few projects 
 
-<a href="https://henryhotel.hruiz.com/"><img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/home.gif' height="200" width="340"/></a>
+<a href="https://henryhotel.hruiz.com/"><img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/homee.gif' height="200" width="340"/></a>
 <a href="https://github.com/malenagoni/Weather-App"><img alt='weather-app' src='https://raw.githubusercontent.com/malenagoni/Weather-App/main/WeatherApp/pics/weatherapp.gif' height="200" width="340"/></a>
 <a href="https://github.com/malenagoni/Football-App"><img alt='scr' src='https://raw.githubusercontent.com/malenagoni/Football-App/main/src/pics/futbolappmain.gif' height="200" width="340"/></a>
 
