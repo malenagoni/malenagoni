@@ -49,6 +49,9 @@ React Native, Three.js, Python.
 ## A few projects 
 
 <a href="https://github.com/malenagoni/Weather-App"><img alt='weather-app' src='https://raw.githubusercontent.com/malenagoni/Weather-App/main/WeatherApp/pics/weatherapp.gif' height="200" width="280"/></a>
+<a href="https://github.com/malenagoni/Football-App"><img alt='scr' src='https://raw.githubusercontent.com/malenagoni/Football-App/main/src/pics/futbolappmain.gif' height="200" width="320"/></a>
+
+
 
 
 ## 📫 Let's get in touch! 
