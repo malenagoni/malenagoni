@@ -4,6 +4,9 @@ I'm a Full Stack Developer who enjoys the path of constant learning! Each projec
 <br/>
 Also, if we do it as a team, the fun is even better😉
 
+
+
+I have <a href='https://gitlab.com/malenagoni'>Gitlab</a> too!
 &nbsp;
 
 ## My skills:
