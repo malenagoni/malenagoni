@@ -1,12 +1,5 @@
 ### Hey there! I'm Malena 👋
 
-I'm a Full Stack Developer who enjoys the path of constant learning! Each project is a new challenge and I'm ready to work on it!
-<br/>
-Also, if we do it as a team, the fun is even better😉
-
-
-
-I have <a href='https://gitlab.com/malenagoni'>Gitlab</a> too!
 &nbsp;
 
 ## My skills:
@@ -33,19 +26,6 @@ I have <a href='https://gitlab.com/malenagoni'>Gitlab</a> too!
 
 <br/><br/>
 &nbsp;
-
-## - In Progress -
-
-<p align="">
-<a href="https://supabase.io/"><img alt="Supabase" src="https://res.cloudinary.com/apideck/image/upload/w_200,f_auto/v1598443537/icons/supabase-io.jpg"  align="left" height="40" width="30" ></a>
-<a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" align="left" height="40" width="32" ></a>
-
-<br/><br/>
-&nbsp;
-
-## - ✨ My Wishlist ✨ -
-
-React Native, Three.js, Python.
 
 <br/>
 
